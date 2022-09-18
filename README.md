@@ -25,3 +25,4 @@ THis application has a simple menu 1-4
 
 #4 will show you the recently added installer apps and language packs by looking at event logs. 
 
+![removeappsnow](https://user-images.githubusercontent.com/79279019/190889146-6b93b18d-c5de-47ed-9c32-ef79aec976df.jpg)
